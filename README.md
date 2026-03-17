@@ -65,10 +65,6 @@ Arduino-based dual-axis solar tracker using LDR sensors and servo motors to alig
 
 ## 📫 Connect With Me
 
-* GitHub: Your GitHub Link Here
+* EMAIL: venkateshsampath0210@gmail.com
 
----
 
-## ⚡ Fun Fact
-
-I enjoy building practical projects that combine software + hardware.
