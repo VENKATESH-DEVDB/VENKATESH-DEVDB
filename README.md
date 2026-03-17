@@ -1,32 +1,74 @@
-Hi, I'm Venkatesh 👋
-	I am a B.Tech / B.E AIDS – 1st year student at KGiSL College of Engineering, interested in backend development and 					
-	cybersecurity.
-	I enjoy building practical projects using Python, C, C++, HTML, and Linux tools, and I am starting my journey towards 	full‑stack development.
+# Hi, I'm Venkatesh 👋
 
-About Me:
-	🎓 First‑year B.Tech/B.E in Artificial Intelligence and Data Science (AIDS) at KGiSL College of Engineering
-	💻 Interested in backend development and cybersecurity (learning both step by step)
-	🌐 Exploring full‑stack development with HTML and related web technologies
-	🐧 Comfortable working in Linux environments and using Git/GitHub for version control
+🎓 B.Tech / B.E AIDS – 1st Year Student
+🏫 Studying at KGiSL College of Engineering
+💻 Interested in Backend Development, Cybersecurity, and Embedded Systems
 
-Tech Stack:
-	Languages: Python, C, C++, HTML
-	Tools: Git, VS Code, Linux
-	Areas of Interest: Backend development, Cybersecurity, NLP, Embedded systems (Arduino)
+---
 
-Projects:
-	Aimperumkappiyam Explorer (NLP Website):
-	A web‑based search tool for Tamil Aimperumkappiyam epics using basic NLP concepts to find words and sentences in the texts.
+## 🚀 About Me
 
-Dual Axis Solar Tracker:
-	Arduino‑based dual‑axis solar tracker using LDR sensors to adjust the solar panel position towards maximum sunlight.
+* 🌱 Currently learning **Python, C, C++, HTML, and Linux**
+* 🔐 Exploring **Cybersecurity concepts**
+* ⚙️ Working with **Arduino-based practical projects**
+* 🐧 Comfortable using **Linux, Git, and GitHub**
+* 🎯 Goal: Become a strong **Full Stack Developer**
 
-Currently Learning:
-	Strengthening Python, C, and C++ fundamentals
-	Basics of backend development and APIs
-	Introduction to cybersecurity concepts
-	Web development with HTML and Linux‑based workflows
+---
 
+## 🛠 Tech Stack
 
+### Languages
 
+* Python
+* C
+* C++
+* HTML
 
+### Tools
+
+* Git
+* GitHub
+* VS Code
+* Linux
+
+### Areas of Interest
+
+* Backend Development
+* Cybersecurity
+* Embedded Systems
+* APIs
+
+---
+
+## 📌 Projects
+
+### 🔍 Aimperumkappiyam Explorer
+
+A web-based Tamil NLP search tool for exploring Tamil epic texts and finding words/sentences efficiently.
+
+### ☀️ Dual Axis Solar Tracker
+
+Arduino-based dual-axis solar tracker using LDR sensors and servo motors to align solar panels toward sunlight.
+
+---
+
+## 📚 Currently Learning
+
+* Python fundamentals
+* C and C++ problem solving
+* Backend development basics
+* API concepts
+* Linux workflows
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: Your GitHub Link Here
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy building practical projects that combine software + hardware.
